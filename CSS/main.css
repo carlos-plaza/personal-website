@@ -80,7 +80,7 @@ nav li {
 
 nav a {
   font-weight: 700;
-  padding: 15px 10px; 
+  padding: 15px 10px;
 }
 
 /****************************************
@@ -99,7 +99,7 @@ footer {
   height: 20px;
   width: 20px;
   padding: 0px 5px;
-} 
+}
 
 /****************************************
 PAGE: PORTFOLIO
@@ -185,13 +185,13 @@ body {
 
 /* green header */
 header {
-  background-color: #6ab47b;
-  border-color: #599a68;
+  background-color: #41B8FF;
+  border-color: #3493CC;
 }
 
 /* nav background on mobile */
 nav {
-  background-color: #599a68;
+  background-color: #3493CC;
 }
 
 /* logo text */
@@ -201,7 +201,7 @@ h1, h2 {
 
 /* links */
 a {
-  color: #6ab47b;
+  color: #3493CC;
 }
 
 /* nav links */
@@ -211,5 +211,5 @@ nav a, nav a:visited {
 
 /* selected nav link */
 nav a.selected, nav a:hover {
-  color: #32673f;
+  color: #476A7F;
 }
